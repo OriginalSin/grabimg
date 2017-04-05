@@ -1,0 +1,16 @@
+{
+  "name": "grabimg",
+  "version": "1.0.0",
+  "description": "Get images",
+  "main": "request.js",
+  "dependencies": {
+    "base64-to-jpg": "^1.0.1",
+    "request": "^2.81.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
